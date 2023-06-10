@@ -1,4 +1,5 @@
 # git_test
 My first GitHub repo!
 Hello Odin!
-This is really fun!
+Thank you for teaching me
+Something really important <#
